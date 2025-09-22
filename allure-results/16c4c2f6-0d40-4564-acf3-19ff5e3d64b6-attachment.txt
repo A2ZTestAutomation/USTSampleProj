@@ -1,0 +1,5 @@
+[
+  { id: '110', site: 'KSC LC 39A' },
+  { id: '109', site: 'CCAFS SLC 40' },
+  { id: '108', site: 'VAFB SLC 4E' }
+]

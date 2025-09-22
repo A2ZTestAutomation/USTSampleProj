@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6600","RadioButton Test","chromium","Mon Sep 08 12:08:53 IST 2025","failed","Mon Sep 08 12:09:00 IST 2025","Checkbox and Radiobutton Test","chkboxRadio.spec.ts","",""
+"This test is to verify check box functions","4665","Checkbox Validation Test","Regression Test Suite","Mon Sep 08 12:08:48 IST 2025","passed","Mon Sep 08 12:08:52 IST 2025","Checkbox and Radiobutton Test","For release 2 features","",""
+"","4405","Dropdown test","chromium","Mon Sep 08 12:09:01 IST 2025","passed","Mon Sep 08 12:09:05 IST 2025","Checkbox and Radiobutton Test","chkboxRadio.spec.ts","",""

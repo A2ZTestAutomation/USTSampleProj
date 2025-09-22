@@ -1,0 +1,6 @@
+Token.... Y29ycGRldm9wc0BnbWFpbC5jb20=
+{
+  launches: [ { site: 'KSC LC 39A' }, { site: 'CCAFS SLC 40' } ],
+  message: 'trips booked successfully',
+  success: true
+}

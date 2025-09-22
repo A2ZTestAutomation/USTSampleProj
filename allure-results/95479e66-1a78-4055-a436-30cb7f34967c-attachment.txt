@@ -1,0 +1,22 @@
+[
+  { id: '110', site: 'KSC LC 39A' },
+  { id: '109', site: 'CCAFS SLC 40' },
+  { id: '108', site: 'VAFB SLC 4E' },
+  { id: '107', site: 'KSC LC 39A' },
+  { id: '106', site: 'CCAFS SLC 40' },
+  { id: '105', site: 'CCAFS SLC 40' },
+  { id: '104', site: 'KSC LC 39A' },
+  { id: '103', site: 'KSC LC 39A' },
+  { id: '102', site: 'KSC LC 39A' },
+  { id: '101', site: 'CCAFS SLC 40' },
+  { id: '100', site: 'CCAFS SLC 40' },
+  { id: '99', site: 'KSC LC 39A' },
+  { id: '98', site: 'CCAFS SLC 40' },
+  { id: '97', site: 'CCAFS SLC 40' },
+  { id: '96', site: 'CCAFS SLC 40' },
+  { id: '95', site: 'CCAFS SLC 40' },
+  { id: '94', site: 'KSC LC 39A' },
+  { id: '93', site: 'KSC LC 39A' },
+  { id: '92', site: 'KSC LC 39A' },
+  { id: '91', site: 'CCAFS SLC 40' }
+]

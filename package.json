@@ -1,0 +1,26 @@
+{
+  "name": "ustsampleproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test chkBoxRadio",
+    "allTest": "npx playwright test",
+    "uiTest": "npx playwright test --ui",
+    "htmlReport": "npx playwright test --reporter=html",
+    "chromium": "npx playwright test --project chromium",
+    "webkit": "npx playwright test launchContexts --project webkit",
+    "SmokeTest": "npx playwright test --grep @Smoke",
+    "SanityTest": "npx playwright test --grep @Sanity"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.3.0",
+    "allure": "^0.0.0",
+    "allure-playwright": "^3.3.3"
+  }
+}

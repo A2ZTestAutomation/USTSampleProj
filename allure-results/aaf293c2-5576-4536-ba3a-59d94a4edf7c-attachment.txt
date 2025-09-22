@@ -1,0 +1,12 @@
+200  with Status Text OK
+JSON Body.... {
+  bookingid: 459,
+  booking: {
+    firstname: 'Anandhi',
+    lastname: 'TestUser',
+    totalprice: 111,
+    depositpaid: true,
+    bookingdates: { checkin: '2025-01-01', checkout: '2025-01-01' },
+    additionalneeds: 'Breakfast'
+  }
+}
