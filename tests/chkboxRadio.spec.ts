@@ -45,7 +45,7 @@ test.describe('Checkbox and Radiobutton Test', { tag: ['@Smoke', '@Sanity'] }, (
         await expect(radioBtn).not.toBeChecked()
         await radioBtn.check()
         //To make fail
-        expect(radioBtn).not.toBeChecked()
+        expect(radioBtn).toBeChecked()
         await page.waitForTimeout(3000)
     })
 
