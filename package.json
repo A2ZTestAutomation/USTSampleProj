@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx playwright test chkBoxRadio",
+    "test": "npx playwright test alerts",
     "allTest": "npx playwright test",
     "uiTest": "npx playwright test --ui",
     "htmlReport": "npx playwright test --reporter=html",
